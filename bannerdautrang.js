@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://kemyphamgiarehandmade.blogspot.com/' target='_blank'><img src='http://noithatshop.com.vn/upload/sanpham/355280_400x273.45454545455.jpg' width='500px'/><br/>kệ mỹ phẩm đẹp LH 0933032745</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://kemyphamgiarehandmade.blogspot.com/' target='_blank'><img src='http://noithatshop.com.vn/upload/sanpham/355280_400x273.45454545455.jpg' width='500px'/><br/>kệ mỹ phẩm đẹp LH 0933032745</a>. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
