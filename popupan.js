@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://kemyphamgiarehandmade.blogspot.com/';
+	var url_popup = 'https://www.facebook.com/cdrstorepro/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
