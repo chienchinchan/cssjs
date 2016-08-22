@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://kemyphamgiarehandmade.blogspot.com/' target='_blank'><img src='http://noithatshop.com.vn/upload/sanpham/355280_400x273.45454545455.jpg' width='500px'/><br/>kệ mỹ phẩm đẹp LH 0933032745</a>. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://www.facebook.com/khobonhalamlongan/' target='_blank'><img src='http://noithatshop.com.vn/upload/sanpham/355280_400x273.45454545455.jpg' width='500px'/><br/>kệ mỹ phẩm đẹp LH 0933032745</a>. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
