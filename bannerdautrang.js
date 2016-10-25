@@ -1,4 +1,4 @@
-//please contact me giaiphapthuonghieu.org@gmail.com
+//please contact me khobongon@gmail.com
 //website http://khobongon.com/
 
 (function($) {
