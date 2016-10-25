@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://http://khobongon.com/' target='_blank'><img src='https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/14102742_611413415708021_831444964146193679_n.jpg?oh=59ada27afd5fc946ddf2576821239097&oe=5856990F' width='500px'/><br/>Khô bò ngon nhà làm LH 0961039379</a>. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://khobongon.com/' target='_blank'><img src='https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/14102742_611413415708021_831444964146193679_n.jpg?oh=59ada27afd5fc946ddf2576821239097&oe=5856990F' width='500px'/><br/>Khô bò ngon nhà làm LH 0961039379</a>. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
