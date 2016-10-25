@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://www.facebook.com/khobonhalamlongan/';
+	var url_popup = 'https://www.khobongon.com/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
